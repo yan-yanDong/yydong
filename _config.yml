@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sideba" #Short biography for the left-hand sideba
   location         : "Earth"
-  employer         : "The Chinese University of Hong Kong, Shenzhen"
+  employer         : "The Chinese University \\
+                      of Hong Kong, Shenzhen"
   uri              : # URL
   email            : "yanyandong@link.cuhk.edu.cn" 
 
