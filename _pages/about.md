@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a postoc in 
+I'm a postoc in The Chinese University of Hong Kong, Shenzhen now.
 
 A data-driven personal website
 ======
