@@ -25,19 +25,19 @@ Teaching
 ======
 * (Teaching Assistant) Selected Topics in Information Theory, Fall 2021.
 
-* (Teaching Assistant) Advanced Linear Algebra， Spring 2021.
+* (Teaching Assistant) Advanced Linear Algebra，pring 2021.
 
-Fall 2020 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+*  (Teaching Assistant) Selected Topics in Information Theory, Fall 2020.
 
-Spring 2020 \textbf{Teaching Assistant} for Introduction to Geography and Topology.
+*  (Teaching Assistant) Introduction to Geography and Topology, Spring 2020.
 
-Fall 2019 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+*  (Teaching Assistant) Selected Topics in Information Theory, Fall 2019.
 
-Spring 2019\textbf{Teaching Assistant} for Probability Theory.
+*  (Teaching Assistant) Probability Theory, Spring 2019.
 
-Fall 2018 \textbf{Teaching Assistant} for Elementary Real Analysis.
+*  (Teaching Assistant) Elementary Real Analysis, Fall 2018.
 
-Fall 2017 and Spring 2018 \textbf{Teaching Assistant} for Mathematical Analysis.
+*  (Teaching Assistant) Mathematical Analysis, Fall 2017 and Spring 2018.
 
 Academic Service
 ======
