@@ -24,12 +24,19 @@ I have been working on
 Teaching
 ======
 Fall 2021 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+
 Spring 2021 \textbf{Teaching Assistant} for Advanced Linear Algebra.
+
 Fall 2020 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+
 Spring 2020 \textbf{Teaching Assistant} for Introduction to Geography and Topology.
+
 Fall 2019 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+
 Spring 2019\textbf{Teaching Assistant} for Probability Theory.
+
 Fall 2018 \textbf{Teaching Assistant} for Elementary Real Analysis.
+
 Fall 2017 and Spring 2018 \textbf{Teaching Assistant} for Mathematical Analysis.
 
 Academic Service
