@@ -9,10 +9,10 @@ main:
     url: https://yan-yandong.github.io/yydong/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://yan-yandong.github.io/yydong/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://yan-yandong.github.io/yydong/teaching/    
     
    # - title: "Portfolio"
     # url: /portfolio/
@@ -21,7 +21,7 @@ main:
     # url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://yan-yandong.github.io/yydong/cv/
     
   # - title: "Guide"
     # url: /markdown/
