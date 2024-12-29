@@ -23,7 +23,7 @@ I have been working on
 
 Teaching
 ======
-\cdot Fall 2021, Teaching Assistant for Selected Topics in Information Theory.
+* Fall 2021, Teaching Assistant for Selected Topics in Information Theory.
 
 Spring 2021 Teaching Assistant for Advanced Linear Algebra.
 
