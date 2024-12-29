@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a postoc in the School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen, where I am hosted by Prof. Shenghao Yang. Prior to being a postdoc in CUHK,Shenzhen, I was a Research Fellow in the Department of Electrical and Computer Engineering (ECE) at the National University of Singapore during Dec 2022 and Dec 2023. I obtained my Ph.D. from School of Science and Engineering at The Chinese University of Hong Kong, Shenzhen with Prof. Shenghao Yang as my advisor. I obtained my Bachelor's degree in Mathematics and Applied Mathematics from Jilin University in July 2017.
+I'm a postoc in the School of Science and Engineering (SSE) at [The Chinese University of Hong Kong, Shenzhen]. Prior to being a postdoc in CUHK,Shenzhen, I was a Research Fellow in the Department of Electrical and Computer Engineering (ECE) at the [National University of Singapore (NUS)] during Dec 2022 and Dec 2023. I obtained my Ph.D. from School of Science and Engineering at [The Chinese University of Hong Kong, Shenzhen] with Prof. Shenghao Yang as my advisor. I obtained my Bachelor's degree in Mathematics and Applied Mathematics from [Jilin University] in July 2017.
 
 Research
 ======
