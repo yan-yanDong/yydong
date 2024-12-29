@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://yan-yandong.github.io/yydong/publications/
 
   - title: "Talks"
     url: /talks/    
