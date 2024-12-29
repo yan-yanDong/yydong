@@ -23,9 +23,9 @@ I have been working on
 
 Teaching
 ======
-Fall 2021 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
+\cdot Fall 2021, Teaching Assistant for Selected Topics in Information Theory.
 
-Spring 2021 \textbf{Teaching Assistant} for Advanced Linear Algebra.
+Spring 2021 Teaching Assistant for Advanced Linear Algebra.
 
 Fall 2020 \textbf{Teaching Assistant} for Selected Topics in Information Theory.
 
